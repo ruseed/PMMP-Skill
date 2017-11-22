@@ -1,0 +1,12 @@
+name: PMMPSkill
+main: erias\pmskill\PMMPSkill
+author: "에리아스"
+version: "1.0-Arpia"
+api:
+- 3.0.0
+
+permissions:
+  erias.pmskill.user:
+    defualt: true
+  erias.pmskill.master:
+    default: OP
